@@ -1,2 +1,2 @@
-# Volunteer-ID-Maker
-IOS Application Project
+# SafeWalkVolunteerIDGenerator
+Kindly follow the instructions described in Module 09: Bindings and Customizing Views
